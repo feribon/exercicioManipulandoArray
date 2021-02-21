@@ -1,0 +1,2 @@
+# exercicioManipulandoArray
+ exercicio manipulando arrays
